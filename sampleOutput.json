@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT Tech",
+        "title": "75-foot asteroid to come as close as 2.4 mn km to Earth; NASA reveals speed, other details - HT Tech",
+        "description": "An aircraft-sized asteroid is expected to pass Earth today, December 26, NASA has revealed. Know details such as speed, size, distance, and more, as per NASA.",
+        "url": "https://tech.hindustantimes.com/tech/news/75foot-asteroid-to-come-as-close-as-2-4-mn-km-to-earth-nasa-reveals-speed-other-details-71703564638293.html",
+        "urlToImage": "https://images.hindustantimes.com/tech/img/2023/12/26/1600x900/3_1693479089566_1703564830748.jpg",
+        "publishedAt": "2023-12-26T04:28:36Z",
+        "content": "When NASA's telescopes track a new Near-Earth Asteroid (NEA), astronomers measure the asteroid's observed positions in the sky and report them to the Minor Planet Center. The Center for Near-Earth Ob… [+1688 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Abplive.com"
+        },
+        "author": "ABP News Bureau",
+        "title": "Garena Free Fire Max: Exclusive Redeem Codes Unveiled For December 26. Here's How To Use - ABP Live",
+        "description": "Garena Free Fire Max redeem codes can unlock a handful of goodies, including weapons and skins.",
+        "url": "https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-dec-26-december-2023-daily-free-rewards-1652420",
+        "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/21/a1c0480e77cdeba2837a3b8ed864ba021700540885823402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+        "publishedAt": "2023-12-26T04:19:21Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "TOI World Desk",
+        "title": "NASA releases space security guide to enhance mission cybersecurity - IndiaTimes",
+        "description": "US News: NASA has unveiled the initial version of its Space Security Best Practices Guide, marking a crucial step in bolstering cybersecurity for both public a.",
+        "url": "https://timesofindia.indiatimes.com/world/us/nasa-releases-space-security-guide-to-enhance-mission-cybersecurity/articleshow/106280176.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-106280156,width-1070,height-580,imgsize-394676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-12-26T04:03:24Z",
+        "content": "Vitamin D rich dry fruits you must consume in winter"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Australia vs Pakistan 2nd Test Day 1 Live Score: Rain Prompts Teams To Take Early Tea - NDTV Sports",
+        "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+        "url": "https://www.bbc.com/news/world-us-canada-39324587",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+        "publishedAt": "2023-12-26T03:54:00Z",
+        "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+      }
+    ]
+}
