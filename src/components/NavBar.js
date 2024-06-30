@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-const NavBar = () => {
+const NavBar = ({ showPositiveOnly, togglePositiveNews }) => {
 
     return (
         <div>
@@ -24,7 +24,11 @@ const NavBar = () => {
                             <li className="nav-item"><Link className="nav-link" to="/sports">Sports</Link></li>
                             <li className="nav-item"><Link className="nav-link" to="/technology">Technology</Link></li>
                         </ul>
+                        <button onClick={togglePositiveNews} className="btn btn-outline-light">
+                            {showPositiveOnly ? 'Show All News' : 'Show Positive News'}
+                        </button>
                     </div>
+                
                 </div>
             </nav>
         </div>
