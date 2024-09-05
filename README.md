@@ -27,4 +27,10 @@ This React application provides users with a user-friendly interface to access a
 
 * **React:** JavaScript library for building user interfaces
 * **FreeNews API:** Provides access to news articles from various sources
-* **Bootstrap:** CSS framework for responsive design 
+* **Bootstrap:** CSS framework for responsive design
+
+
+## Output 
+
+![Screenshot 2024-09-05 152112](https://github.com/user-attachments/assets/1c01acd5-c509-4fa2-b6ea-b6be57d2975b)
+
